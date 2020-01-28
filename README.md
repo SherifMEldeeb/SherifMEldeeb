@@ -11,7 +11,7 @@ iOS Developer
 <br>
 </h2>
 
-<div align="left">
+<div align="center">
 <p align="center">
 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/SherifMEldeeb/SherifM.Eldeeb-Resume)
