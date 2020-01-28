@@ -19,10 +19,8 @@
 [![Generic badge](https://img.shields.io/badge/Resume-PDF-green.svg)](https://drive.google.com/file/d/1lm_MNj3alpKrWfMyPEbAyvGm5yHk-uUf/view)
 &nbsp;&nbsp;
 [![Generic badge](https://img.shields.io/badge/Email-sherif.eldeep1@gmail.com-Red.svg)](mailto:sherif.eldeep1@gmail.com)
-
 </p>
 </div>
-
 
 <h2 align="center"> Portofolio</h2>
 <div align="center">
@@ -31,14 +29,18 @@
     <h3 align="left"> Flash Chat </h3>
     <h5 align="left"> Role: sole developer </h5>
    <p align="center">
-   <h6 align="center"> Flashchat is my first simple text chat app that demonstrate the use of Firebase services with ios application 
-   <h5>Used Librabries & Frameworks:<br>
-   * [AlamoFire](https://github.com/Alamofire/Alamofire) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)<br>
-   * [Firebase](https://firebase.google.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [SVProgressHUD](https://github.com/relatedcode/ProgressHUD)
-   </h5>
+   <br>
+   <h6 align="center"> Flashchat is my first simple text chat app that demonstrate the use of Firebase services with ios application
+   <h5>Used Libraries & Frameworks:<br> </h5>
    </h6>
-   <img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
-    <img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
-    <img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
    </p>
 </div>
+
+|              |              |
+|:------------:|:------------:|
+|1. [AlamoFire](https://github.com/Alamofire/Alamofire)|2. [Firebase](https://firebase.google.com/)|
+|3. [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)|4. [SVProgressHUD](https://github.com/relatedcode/ProgressHUD)|
+
+<img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
+<img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
+<img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
