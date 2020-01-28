@@ -41,6 +41,10 @@
 |1. [AlamoFire](https://github.com/Alamofire/Alamofire)|2. [Firebase](https://firebase.google.com/)|
 |3. [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)|4. [SVProgressHUD](https://github.com/relatedcode/ProgressHUD)|
 
-<img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
-<img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
-<img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
+<div align="center">
+   <p align="center">
+   <img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
+   <img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
+   <img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
+   </p>
+</div>
