@@ -1,9 +1,10 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/SherifMEldeeb">
-  <img src="https://github.com/SherifMEldeeb/SherifM.Eldeeb-Resume/assets/profile-photo.png" width="200"></a>
+  <img src="/assets/profile-photo.png" width="200"></a>
   <br>
   #Sherif Mohamed Eldeeb
+  <br>
   ##iOS Developer
   <br>
   <br>
