@@ -4,10 +4,9 @@
   <img src="/assets/profile-photo.png" width="200"></a>
   <br>
   Sherif Mohamed Eldeeb
-  <h2 align="center">
-   iOS Developer
-   <br>
-  </h2>
+  <h3 align="center">  
+    iOS Developer 
+  </h3>
 </h1>
 
 <div align="center">
@@ -24,7 +23,22 @@
 </p>
 </div>
 
-<h2 align="center">
-  Portofolio
-</h2>
 
+<h2 align="center"> Portofolio</h2>
+<div align="center">
+   <a href="https://github.com/SherifMEldeeb/flashChat">
+   <img align="left" src="/assets/projects/flashchat/Icon.png" width="100"></a>
+    <h3 align="left"> Flash Chat </h3>
+    <h5 align="left"> Role: sole developer </h5>
+   <p align="center">
+   <h6 align="center"> Flashchat is my first simple text chat app that demonstrate the use of Firebase services with ios application 
+   <h5>Used Librabries & Frameworks:<br>
+   * [AlamoFire](https://github.com/Alamofire/Alamofire) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)<br>
+   * [Firebase](https://firebase.google.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [SVProgressHUD](https://github.com/relatedcode/ProgressHUD)
+   </h5>
+   </h6>
+   <img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
+    <img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
+    <img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
+   </p>
+</div>
