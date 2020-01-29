@@ -23,9 +23,35 @@
 </div>
 
 <h2 align="center"> Portofolio</h2>
+<div align="center">
+   <a href="https://github.com/SherifMEldeeb/">
+   <img align="left" src="/assets/projects/Studentmate/Icon.png" width="100"></a>
+    <h3 align="center"> StudentMate </h3>
+    <h5 align="center"> Role: sole developer </h5>
+   <p align="center">
+   <br>
+   <h6 align="center"> StudentMate is an application that helps university students to manage their college life events and study resources with public and private chat groups and channels.
+   <h5>Used Libraries & Frameworks:<br> </h5>
+   </h6>
+   </p>
+</div>
+
+|              |              |
+|:------------:|:------------:|
+|1. [AlamoFire](https://github.com/Alamofire/Alamofire)|2. [kingfisher](https://github.com/onevcat/Kingfisher)|
+|3. [FluidBottomNavigation](https://github.com/10clouds/FluidBottomNavigation-ios)||
 
 <div align="center">
-   <a href="https://github.com/SherifMEldeeb/flashChat">
+   <p align="center">
+   <img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
+   <img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
+   <img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
+   </p>
+</div>
+
+#
+<div align="center">
+   <a href="https://github.com/SherifMEldeeb/">
    <img align="left" src="/assets/projects/Almuhaideb/Icon.png" width="100"></a>
     <h3 align="center"> ALMUHAIDEB </h3>
     <h5 align="center"> Role: sole developer </h5>
