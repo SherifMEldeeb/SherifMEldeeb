@@ -23,11 +23,40 @@
 </div>
 
 <h2 align="center"> Portofolio</h2>
+
+<div align="center">
+   <a href="https://www.facebook.com/EnkaazEG/">
+   <img align="left" src="/assets/projects/Enkaaz/Icon.png" width="100"></a>
+    <h3 align="center"> Enkaaz </h3>
+    <h5 align="center"> Role: team member </h5>
+   <p align="center">
+   <br>
+   <h6 align="center"> Enkaaz is a startup app that enables the use of GPS technology on roadside assistance services with custom backend to manage app logic.
+   <h5>Used Libraries & Frameworks:<br> </h5>
+   </h6>
+   </p>
+</div>
+
+|              |              |
+|:------------:|:------------:|
+|1. [CameraManager](https://github.com/imaginary-cloud/CameraManager)|2. [GoogleMaps](https://developers.google.com/maps/documentation/ios-sdk/intro)|
+|3. [SideMenuSwift](https://github.com/jonkykong/SideMenu)|4. [AlamoFire](https://github.com/Alamofire/Alamofire)|
+|5. [Carthage](https://github.com/Carthage/Carthage)||
+
+<div align="center">
+   <p align="center">
+   <img align="center" src="/assets/projects/Enkaaz/Screenshots/welcome.png" width="279" height="571">
+   <img align="center" src="/assets/projects/Enkaaz/Screenshots/login.png" width="279" height="571">
+   <img align="center" src="/assets/projects/Enkaaz/Screenshots/chat.png" width="279" height="571">
+   </p>
+</div>
+
+#
 <div align="center">
    <a href="https://github.com/SherifMEldeeb/flashChat">
-   <img align="left" src="/assets/projects/flashchat/Icon.png" width="100"></a>
-    <h3 align="left"> Flash Chat </h3>
-    <h5 align="left"> Role: sole developer </h5>
+   <img align="left" src="/assets/projects/Flashchat/Icon.png" width="100"></a>
+    <h3 align="center"> Flash Chat </h3>
+    <h5 align="center"> Role: sole developer </h5>
    <p align="center">
    <br>
    <h6 align="center"> Flashchat is my first simple text chat app that demonstrate the use of Firebase services with ios application
@@ -43,8 +72,8 @@
 
 <div align="center">
    <p align="center">
-   <img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
-   <img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
-   <img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
+   <img align="center" src="/assets/projects/Flashchat/Screenshots/welcome.png" width="279" height="571">
+   <img align="center" src="/assets/projects/Flashchat/Screenshots/login.png" width="279" height="571">
+   <img align="center" src="/assets/projects/Flashchat/Screenshots/chat.png" width="279" height="571">
    </p>
 </div>
