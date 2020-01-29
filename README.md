@@ -25,6 +25,33 @@
 <h2 align="center"> Portofolio</h2>
 
 <div align="center">
+   <a href="https://github.com/SherifMEldeeb/flashChat">
+   <img align="left" src="/assets/projects/Almuhaideb/Icon.png" width="100"></a>
+    <h3 align="center"> ALMUHAIDEB </h3>
+    <h5 align="center"> Role: sole developer </h5>
+   <p align="center">
+   <br>
+   <h6 align="center"> ALMUHAIDEB is a clinic app that is considered to be a management system for their multi-building reservations and scheduling with customized backend to deliver its value.
+   <h5>Used Libraries & Frameworks:<br> </h5>
+   </h6>
+   </p>
+</div>
+
+|              |              |
+|:------------:|:------------:|
+|1. [AlamoFire](https://github.com/Alamofire/Alamofire)|2. [Firebase](https://firebase.google.com/)|
+|3. [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)|4. [SVProgressHUD](https://github.com/relatedcode/ProgressHUD)|
+
+<div align="center">
+   <p align="center">
+   <img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
+   <img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
+   <img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
+   </p>
+</div>
+
+#
+<div align="center">
    <a href="https://www.facebook.com/EnkaazEG/">
    <img align="left" src="/assets/projects/Enkaaz/Icon.png" width="100"></a>
     <h3 align="center"> Enkaaz </h3>
