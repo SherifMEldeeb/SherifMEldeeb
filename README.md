@@ -35,14 +35,14 @@
    </p>
 </div>
 
-<h5 align="center">Features:<br>
-* <h3> Authentication & Profile
-* <h3> Calendar integrated with apple calendar app & Remainder with push notifications
-* <h3> social/group chat and channels with friend requests
-* <h3> youtube videos and pdf files using WebKit
+<h3 align="center">Features:<br>
+* <h4 align="center"> Authentication & Profile<br>
+* <h4 align="center"> Calendar integrated with apple calendar app & Remainder with push notifications<br>
+* <h4 align="center"> social/group chat and channels with friend requests<br>
+* <h4 align="center"> youtube videos and pdf files using WebKit
+</h3>
 
-</h5>
-<h5 align="center">Used Libraries & Frameworks:<br> </h5>
+<h3 align="center">Used Libraries & Frameworks:<br> </h3>
 
 |              |              |
 |:------------:|:------------:|
