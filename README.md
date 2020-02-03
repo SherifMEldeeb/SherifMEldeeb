@@ -35,7 +35,7 @@
    </p>
 </div>
 
-<h3 align="center">Features:<br> <h5 align="center"> * Authentication & Profile <br> <h5 align="center"> * Calendar integrated with apple calendar app & Remainder with push notifications<br> <h5 align="center"> * social/group chat and channels with friend requests<br> <h5 align="center"> * youtube videos and pdf files using WebKit
+<h3 align="center">Features:<br> <h5 align="center"> * Authentication & Profile <br> <h5 align="center"> * Calendar integrated with apple calendar app & Remainder with push notifications<br> <h5 align="center"> * social/group chat & channels with friend requests<br> <h5 align="center"> * youtube videos & pdf files using WebKit
 </h3>
 
 <h3 align="center">Used Libraries & Frameworks:<br> </h3>
