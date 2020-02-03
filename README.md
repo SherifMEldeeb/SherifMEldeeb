@@ -70,9 +70,9 @@
 
 <div align="center">
    <p align="center">
-   <img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
-   <img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
-   <img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
+   <img align="center" src="/assets/projects/Almuhaideb/videos/left.gif" width="279" height="571">
+   <img align="center" src="/assets/projects/Almuhaideb/videos/middle.gif" width="279" height="571">
+   <img align="center" src="/assets/projects/Almuhaideb/videos/right.gif" width="279" height="571">
    </p>
 </div>
 
