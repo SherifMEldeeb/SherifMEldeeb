@@ -55,7 +55,7 @@
 
 #
 <div align="center">
-   <a href="https://github.com/SherifMEldeeb/">
+<a href="https://almuhaidebdental.com/ar/">
    <img align="left" src="/assets/projects/Almuhaideb/Icon.png" width="100"></a>
     <h3 align="center"> ALMUHAIDEB </h3>
     <h5 align="center"> Role: sole developer </h5>
@@ -89,10 +89,14 @@
    <p align="center">
    <br>
    <h6 align="center"> Enkaaz is a startup app that enables the use of GPS technology on roadside assistance services with custom backend to manage app logic.
-   <h3>Used Libraries & Frameworks:<br> </h3>
    </h6>
    </p>
 </div>
+
+<h3 align="center">Features:<br> <h5 align="center"> * Authentication & Profile <br> <h5 align="center"> * Google Maps <br> <h5 align="center"> * OCR <br> <h5 align="center"> * simple chat 
+</h3>
+
+<h3 align="center">Used Libraries & Frameworks:<br> </h3>
 
 |              |              |
 |:------------:|:------------:|
@@ -102,9 +106,9 @@
 
 <div align="center">
    <p align="center">
-   <img align="center" src="/assets/projects/Enkaaz/Screenshots/welcome.png" width="279" height="571">
-   <img align="center" src="/assets/projects/Enkaaz/Screenshots/login.png" width="279" height="571">
-   <img align="center" src="/assets/projects/Enkaaz/Screenshots/chat.png" width="279" height="571">
+   <img align="center" src="/assets/projects/Enkaaz/videos/left.gif" width="279" height="571">
+   <img align="center" src="/assets/projects/Enkaaz/videos/middle.gif" width="279" height="571">
+   <img align="center" src="/assets/projects/Enkaaz/videos/right.gif" width="279" height="571">
    </p>
 </div>
 
