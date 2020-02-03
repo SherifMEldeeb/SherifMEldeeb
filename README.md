@@ -35,11 +35,7 @@
    </p>
 </div>
 
-<h3 align="center">Features:<br>
-* <h4 align="center"> Authentication & Profile<br>
-* <h4 align="center"> Calendar integrated with apple calendar app & Remainder with push notifications<br>
-* <h4 align="center"> social/group chat and channels with friend requests<br>
-* <h4 align="center"> youtube videos and pdf files using WebKit
+<h3 align="center">Features:<br>* <h5 align="center"> Authentication & Profile<br>* <h5 align="center"> Calendar integrated with apple calendar app & Remainder with push notifications<br>* <h5 align="center"> social/group chat and channels with friend requests<br>* <h5 align="center"> youtube videos and pdf files using WebKit
 </h3>
 
 <h3 align="center">Used Libraries & Frameworks:<br> </h3>
@@ -66,7 +62,7 @@
    <p align="center">
    <br>
    <h6 align="center"> ALMUHAIDEB is a clinic app that is considered to be a management system for their multi-building reservations and scheduling with customized backend to deliver its value.
-   <h5>Used Libraries & Frameworks:<br> </h5>
+   <h3>Used Libraries & Frameworks:<br> </h3>
    </h6>
    </p>
 </div>
@@ -93,7 +89,7 @@
    <p align="center">
    <br>
    <h6 align="center"> Enkaaz is a startup app that enables the use of GPS technology on roadside assistance services with custom backend to manage app logic.
-   <h5>Used Libraries & Frameworks:<br> </h5>
+   <h3>Used Libraries & Frameworks:<br> </h3>
    </h6>
    </p>
 </div>
@@ -121,7 +117,7 @@
    <p align="center">
    <br>
    <h6 align="center"> Flashchat is my first simple text chat app that demonstrate the use of Firebase services with ios application
-   <h5>Used Libraries & Frameworks:<br> </h5>
+   <h3>Used Libraries & Frameworks:<br> </h3>
    </h6>
    </p>
 </div>
