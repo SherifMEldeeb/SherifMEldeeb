@@ -31,21 +31,29 @@
    <p align="center">
    <br>
    <h6 align="center"> StudentMate is an application that helps university students to manage their college life events and study resources with public and private chat groups and channels.
-   <h5>Used Libraries & Frameworks:<br> </h5>
    </h6>
    </p>
 </div>
 
+<h5 align="center">Features:<br>
+* <h3> Authentication & Profile
+* <h3> Calendar integrated with apple calendar app & Remainder with push notifications
+* <h3> social/group chat and channels with friend requests
+* <h3> youtube videos and pdf files using WebKit
+
+</h5>
+<h5 align="center">Used Libraries & Frameworks:<br> </h5>
+
 |              |              |
 |:------------:|:------------:|
 |1. [AlamoFire](https://github.com/Alamofire/Alamofire)|2. [kingfisher](https://github.com/onevcat/Kingfisher)|
-|3. [FluidBottomNavigation](https://github.com/10clouds/FluidBottomNavigation-ios)||
+|3. [FluidBottomNavigation](https://github.com/10clouds/FluidBottomNavigation-ios)| 4. [WebKit](https://developer.apple.com/documentation/webkit)|
 
 <div align="center">
    <p align="center">
-   <img align="center" src="/assets/projects/flashchat/Screenshots/welcome.png" width="279" height="571">
-   <img align="center" src="/assets/projects/flashchat/Screenshots/login.png" width="279" height="571">
-   <img align="center" src="/assets/projects/flashchat/Screenshots/chat.png" width="279" height="571">
+   <img align="center" src="/assets/projects/Studentmate/videos/left.gif" width="279" height="571">
+   <img align="center" src="/assets/projects/Studentmate/videos/middle.gif" width="279" height="571">
+   <img align="center" src="/assets/projects/Studentmate/videos/right.gif" width="279" height="571">
    </p>
 </div>
 
